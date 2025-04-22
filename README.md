@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Olá! Sou Isabelly, estudante do terceiro período de Análise e Desenvolvimento de Sistemas. Minha paixão pela tecnologia me impulsiona a explorar novas soluções e aprimorar constantemente minhas habilidades.  <br>
-  <br>💻 Possuo certificação em desenvolvimento front-end pela Rede Cidadão, em parceria com Accenture onde aprimorei minhas habilidades em criação de interfaces e experiência do usuário. 
+  <br>💻 Possuo certificação em desenvolvimento front-end pela Rede Cidadão, em parceria com Accenture onde aprimorei minhas habilidades em criação de interfaces e experiência do usuário.  
   <br>🚀 Atualmente, estou aprofundando meus conhecimentos em Python, Angular, Java e buscando desafios que me permitam evoluir como desenvolvedora.</p>
 
 ###
@@ -53,8 +53,12 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/isabelly-remigio/isabelly-remigio/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
