@@ -2,13 +2,15 @@
 
 ###
 
-<p align="left">Olá! Sou Isabelly, estudante do terceiro período de Análise e Desenvolvimento de Sistemas. Minha paixão pela tecnologia me impulsiona a explorar novas soluções e aprimorar constantemente minhas habilidades.  <br><br>💻 Possuo certificação em desenvolvimento front-end pela Rede Cidadão, em parceria com Accenture onde aprimorei minhas habilidades em criação de interfaces e experiência do usuário.  <br>🚀 Atualmente, estou aprofundando meus conhecimentos em Python, Angular, Java e buscando desafios que me permitam evoluir como desenvolvedora.</p>
+<p align="left">Olá! Sou Isabelly, estudante do terceiro período de Análise e Desenvolvimento de Sistemas. Minha paixão pela tecnologia me impulsiona a explorar novas soluções e aprimorar constantemente minhas habilidades.  <br>
+  <br>💻 Possuo certificação em desenvolvimento front-end pela Rede Cidadão, em parceria com Accenture onde aprimorei minhas habilidades em criação de interfaces e experiência do usuário. 
+  <br>🚀 Atualmente, estou aprofundando meus conhecimentos em Python, Angular, Java e buscando desafios que me permitam evoluir como desenvolvedora.</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isabelly-remigio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelly-remigio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=isabelly-remigio&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelly-remigio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
