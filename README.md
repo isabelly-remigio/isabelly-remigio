@@ -29,8 +29,8 @@ Olá! Sou Isabelly, estudante do terceiro período de Análise e Desenvolvimento
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="left">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=blue&hide_border=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=blue&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=isabelly-remigio&show_icons=true&theme=blue&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelly-remigio&layout=compact&theme=blue&hide_border=true" />
 </p>
 
 ###
