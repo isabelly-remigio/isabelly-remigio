@@ -6,8 +6,6 @@
 Sou uma desenvolvedora em formação, cursando o 4º período de Análise e Desenvolvimento de Sistemas, com uma paixão genuína por transformar ideias em soluções digitais funcionais e elegantes. Minha jornada na tecnologia é movida pela curiosidade constante e pelo desejo de criar experiências que fazem a diferença.
 </p>
 
-### 📊 Minha Atividade no GitHub
-
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=isabelly-remigio&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelly-remigio&layout=compact&theme=radical&hide_border=true&langs_count=6" />
