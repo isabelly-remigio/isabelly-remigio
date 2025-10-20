@@ -1,50 +1,74 @@
-<h2 align="left">🌟 Olá! Sou Isabelly</h2>
+# 🌟 Olá! Sou Isabelly Remígio
+
+### 💻 Desenvolvedora Front-End & Estudante de ADS
 
 <p align="left">
-Olá! Sou Isabelly, estudante do terceiro período de Análise e Desenvolvimento de Sistemas. Minha paixão pela tecnologia me leva a criar soluções eficientes e aprimorar constantemente minhas habilidades. <br><br>
-💻 Certificada em desenvolvimento front-end pela Rede Cidadão, em parceria com a Accenture, com experiência em criação de interfaces e experiência do usuário. <br>
-🚀 Desenvolvo projetos utilizando tecnologias modernas e busco sempre desafios que me permitam evoluir como desenvolvedora.
+Sou uma desenvolvedora em formação, cursando o 4º período de Análise e Desenvolvimento de Sistemas, com uma paixão genuína por transformar ideias em soluções digitais funcionais e elegantes. Minha jornada na tecnologia é movida pela curiosidade constante e pelo desejo de criar experiências que fazem a diferença.
 </p>
 
-###
+### 📊 Minha Atividade no GitHub
 
-<h2 align="left">🛠 Tecnologias & Ferramentas</h2>
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=isabelly-remigio&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelly-remigio&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+</p>
 
+### 🛠 Stack Tecnológica
+
+#### **Front-End Principal**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" title="React" />
 </div>
 
-###
+#### **Back-End & Banco de Dados**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS" title="NestJS" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+</div>
 
-<h2 align="left">📊 GitHub Stats</h2>
+### 🚀 Minha Jornada
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=isabelly-remigio&show_icons=true&theme=blue&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelly-remigio&layout=compact&theme=blue&hide_border=true" />
-</p>
+<div align="left">
 
-###
+🎓 **Formação Acadêmica**: Cursando Análise e Desenvolvimento de Sistemas - 3º período  
+🏆 **Certificações**: 
+- Desenvolvimento Front-End pela Rede Cidadão em parceria com a Accenture
+- Formação Acelerada em Soluções de Techdesign (FAST) - Engenharia de Qualidade de Software - Cesar School
+  
+🎯 **Foco Atual**: Aprimorar habilidades full-stack e aprender novas tecnologias  
+✨ **Objetivo**: Contribuir para projetos inovadores que impactem positivamente a vida das pessoas
 
-<h2 align="left">📫 Onde me encontrar</h2>
+</div>
+
+### 📫 Conecte-se Comigo
 
 <div align="left">
   <a href="https://www.linkedin.com/in/isabelly-remígio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:seu-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" />
   </a>
   <a href="https://instagram.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram" />
   </a>
 </div>
+
+---
+
+<p align="center">
+  <i>"Não espere por oportunidades, crie-as. Cada linha de código é um passo em direção ao futuro que quero construir."</i>
+</p>
+  
+
+</div>
+
